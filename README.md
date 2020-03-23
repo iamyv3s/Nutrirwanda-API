@@ -2,7 +2,7 @@
  Nutrirwanda is an technological innovation to reach out to the target population in urban and rural areas, to equip them vital nutritional information
 
  Name of the app: Dietup
- [Diet up Logo](logo.jpeg)
+ image: [Logo](logo.jpeg)
 
 # Technologies we are Using:
 - Python and Django
