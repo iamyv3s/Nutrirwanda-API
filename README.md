@@ -7,7 +7,7 @@
 # Technologies we are Using:
 - Python and Django
 - Javascript React Native
-- Twilio for SMS and Phone Number Auth.
+- Twilio for SMS and Phone Number verification.
 
  # TODO:
  1. Develop REST API, Database and User authentication model
